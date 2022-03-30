@@ -13,4 +13,4 @@ useEffect の第二引数に[]を設定すると<br>
 第二引数に何も設定しないと全ての State に反応して<br>
 どの State が変更されても useEffect が実行される。<br>
 特定の State のみ反応してほしい時は<br>
-第二引数に State の名前を指定する。<br><br>
+第二引数に State の名前を指定する。
